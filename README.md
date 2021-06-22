@@ -1,6 +1,6 @@
-# Water-Level-Indicator using 74HC147 and CD4511
+# Water-Level-Indicator using 74HC147 and CD4511 (Simulated using Proteus 8 Professional)
 
-## Simulated using Proteus 8 Professional
+## Algorithm
 
 Most water level indicators for water tanks are based upon the number of LEDs that glow to indicate the corresponding level of water in the container. Here we present a digital version of the water level indicator. It uses a 7-segment display to show the water level in numeric form from 0 to 9.
 
